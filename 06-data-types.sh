@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#NUMBER1=100
+NUMBER1=100
 NUMBER2=200
-NUMBER1=Jayaram
+
 
 TIMESTAMP=$(date)
 
