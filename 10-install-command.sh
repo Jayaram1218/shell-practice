@@ -16,4 +16,18 @@ else
 
 fi
 
-dnf install mysql -y
+dnf install mysqlqeqwe -y
+
+if [ $? -eq 0 ]
+
+then 
+
+    echo "Installing MYSQL ... successful"
+
+else 
+
+    echo "Installing MYSQL ... Failure"
+
+    #exit 1
+
+fi
