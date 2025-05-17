@@ -16,6 +16,7 @@ else
 
 fi
 
+# VALIDATE function takes input as exit status, what command they tried to install
 VALIDATE() {
  if [ $1 -eq 0 ]
         then 
