@@ -28,6 +28,6 @@ else
 
     echo "Installing MYSQL ... Failure"
 
-    #exit 1
+    exit 1
 
 fi
