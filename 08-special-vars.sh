@@ -12,4 +12,6 @@ echo "Home directory of the user who is runnung the script: $HOME"
 
 echo "Which user is running the script: $$"
 
+sleep 10 &
+
 echo "PID of the last command running in background: $!"
